@@ -1,0 +1,8 @@
+G:\Projects\ClosestCentralFills\ClosestCentralFills\bin\Debug\ClosestCentralFills.exe.config
+G:\Projects\ClosestCentralFills\ClosestCentralFills\bin\Debug\ClosestCentralFills.exe
+G:\Projects\ClosestCentralFills\ClosestCentralFills\bin\Debug\ClosestCentralFills.pdb
+G:\Projects\ClosestCentralFills\ClosestCentralFills\obj\Debug\ClosestCentralFills.csproj.AssemblyReference.cache
+G:\Projects\ClosestCentralFills\ClosestCentralFills\obj\Debug\ClosestCentralFills.csproj.CoreCompileInputs.cache
+G:\Projects\ClosestCentralFills\ClosestCentralFills\obj\Debug\ClosestCentralFills.exe
+G:\Projects\ClosestCentralFills\ClosestCentralFills\obj\Debug\ClosestCentralFills.pdb
+G:\Projects\ClosestCentralFills\ClosestCentralFills\obj\Debug\ClosestCentralFills.exe.config
